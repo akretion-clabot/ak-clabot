@@ -1,1 +1,1 @@
-Test CLA bot : test6
+Test CLA bot : test7
