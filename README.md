@@ -1,2 +1,2 @@
-Test CLA bot
+Test CLA bot auth
 
