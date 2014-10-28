@@ -1,2 +1,2 @@
-Test CLA bot : test12
-test pull
+Test CLA bot
+
